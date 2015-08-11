@@ -71,6 +71,7 @@ a:hover {text-decoration:underline;}
 
 .main-nav{
 	position:absolute;
+    width: 50%;
 	bottom: 23px;
 	left:210px;
 	z-index:1001;
